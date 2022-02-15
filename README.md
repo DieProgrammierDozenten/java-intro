@@ -24,7 +24,7 @@
 - [Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 - [Release der neuen `switch`-Notation in Java SDK 14](https://openjdk.java.net/jeps/361)
 
-Hinweis: Durch eingeben des Befehls `java -version` in die Konsole (z. B. `cmd` oder `Powershell` bei Windows,`Terminal` bei macOS) kann herausgefunden werden, ob Java erfolgreich installiert wurde.
+Hinweis: Durch eingeben des Befehls `java -version` in die Konsole (z. B. `cmd` oder `Powershell` bei Windows, `Terminal` bei macOS) kann herausgefunden werden, ob Java erfolgreich installiert wurde.
 
 ### Integrated Development Environments (IDEs)
 - [Repl.it](https://repl.it/)
