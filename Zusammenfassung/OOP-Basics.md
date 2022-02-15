@@ -80,7 +80,7 @@ Diese Visualisierung ist unabhängig von einer konkreten Programmiersprache, erl
 
 Für ein (einfaches) Rennspiel könnte das Beispiel so aussehen:
 
-![Beispiel für ein Klassendiagramm](includes/Spieler und Fahrzeuge.png)
+![Beispiel für ein Klassendiagramm](includes/Spieler%20und%20Fahrzeuge.png)
 
 Durch das `+` bzw. `-` vor den Attributen und Methoden lässt sich zusätzlich die Sichtbarkeit festlegen. Mehr dazu im Abschnitt [Modifikatoren](#modifikatoren).
 
