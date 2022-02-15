@@ -31,7 +31,7 @@ Hinweis: Durch eingeben des Befehls `java -version` in die Konsole (z. B. `cmd` 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     - Kostenlose Community-Version (ausreichend für die Vorlesung)
     - Ultimate-Version kostenlos über [Jetbrains Studierendenprogramm](https://www.jetbrains.com/community/education/#students)
-- [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-java-developers)
+- [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/)
 
 ### Visualisierung von UML-Klassendiagrammen
 - [draw.io](https://app.diagrams.net/)
