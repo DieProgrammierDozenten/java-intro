@@ -54,9 +54,9 @@ Bei jeder Änderung des Codes ist eine erneute Kompilierung erforderlich, was Ze
 | Quellcode-Übersetzung | zur Laufzeit | vor der Ausführung im Kompilierungsschritt |
 | Ausführungsmodus | Zeile für Zeile | gesamter Code |
 | Entwicklungsaufwand | geringer | höher |
-| Programmgeschwindigkeit | höher | geringer |
+| Programmgeschwindigkeit | geringer | höher |
 | Voraussetzung für andere Plattform | Verfügbarkeit des Interpreters für die Zielplattform | Neukompilierung des Programms für Zielplattform |
-| Beispiele | `Python`, `PHP`, `JavaScript` | `C`, `C++`, `Pascal`
+| Beispiele | `Python`, `PHP`, `JavaScript` | `C`, `C++`, `Go`, `Pascal`
 
 Java verfolgt einen hybriden Ansatz und kombiniert die Vorteile von Compiler und Interpreter.
 Dabei wird über den Compiler (Programm `javac`) der Quellcode der `.java`-Dateien vor der Ausführung des Programms in einen sogenannten Bytecode (`.class`-Dateien) kompiliert.
